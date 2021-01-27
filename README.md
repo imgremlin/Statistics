@@ -1,2 +1,5 @@
 # Statistics
-Statistics, 4th semestr, KA-83
+
+* Homework on Statistics
+* Date: 4th semester
+* Group: KA-83
